@@ -1,0 +1,27 @@
+b{
+    color:tomato;
+    font-size:25pt;
+    font-family: "华文新魏";
+}
+li{
+    color:seagreen;
+    font-size: 20pt;
+    font-family: "华文新魏";
+}
+th{
+    font-size:23pt;
+    font-family: "华文新魏";
+}
+td{
+    color:purple;
+    font-size:20pt;
+    font-family: "华文新魏";
+}
+h1{
+    font-size: 35pt;
+    font-family: "华文行楷";
+}
+h2{
+    font-size: 24pt;
+    font-family: "华文行楷";
+}
